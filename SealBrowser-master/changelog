@@ -1,0 +1,59 @@
+1.8:
+- Fix file select dialog not opening.
+- Added download confirmation dialog.
+- Ability to redirect JS logs to logcat.
+- "Incognito by default" option.
+- Cookies are now sent with download requests.
+- Ability to redirect JS logs to logcat.
+- Images can be opened in a new tab through the context menu.
+- Back key return to the start page if no browsing history (if the start page is used).
+- Spanish, Japanese, and Simplified Chinese translations.
+
+1.7:
+- New user interface for phones. The legacy one is still available under preferences.
+- Opened tabs can now be restored at start-up.
+- New preference to choose user interface type.
+- Various bug fix.
+
+1.6.1:
+- Fix FC when opening a tab in background on tablets.
+- Hide application instead of finishing it on back pressed.
+
+1.6:
+- New export format for bookmarks and history; Bookmarks folders are now handled in export and import; Old format still supported for import.
+- Full screen mode (Exit full screen icon on tablets designed by Olyn LeRoy from The Noun Project).
+- UI improvements for 7in tablets.
+- German translation (thanks to Lars-Dominik).
+- Russian translation (thanks to Anton).
+
+1.5:
+- User choice for SSL security exceptions can now be saved on a per-website basis.
+- Better search engine customization.
+- Handle search key on devices which has one.
+- Bookmarks can now be sorted in three ways (Most used, Alphabetically, Most recently visited).
+- Various bug fixes.
+- Portuguese translation (thanks to Rui).
+
+1.4:
+- Add accessibility settings: minimum font size, text scaling, and inverted screen rendering;
+- Add progress bar when loading history and bookmarks;
+- On url suggestions, add a button to paste the suggested url in the url bar, without loading it;
+- On phones, tab switching use a quick fade in/out animation;
+
+1.3: Features:
+- Folders can be created in bookmarks;
+- Various minor improvements in layouts;
+- Fix some force close;
+
+1.2: Features:
+- Incognito mode;
+- Open links in background;
+- Various bug fixes (tabs are no longer lost when docking/undocking keyboard on Asus Transformer(s), ...)
+
+1.1: Bug fixes:
+- Long-click on image links now work as intended;
+- Stop plugins when closing a tab;
+- keyboard no longer hide along with toolbar during a search in phone mode;
+- Deleting items in history no longer bring back to the first section;
+
+1.0: Initial release.
